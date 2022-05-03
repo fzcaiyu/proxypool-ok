@@ -1,5 +1,5 @@
 # your domain
-domain: scannet01.herokuapp.com
+domain: scannet011.herokuapp.com
 port:                 # default 12580
 
 # source list file
